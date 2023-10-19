@@ -15,6 +15,17 @@ git checkout -b feature
 
 then vs code want to be publish the branch
 
+==>git config --get credential.helper
+
+this can help which one is good 
+
+==>git credential-osxkeychain erase https://github.com
+
+remove from oslkey chain
+
+
+==> git config --global credential.https://github.com.useHttpPath true
+
 
 
 
